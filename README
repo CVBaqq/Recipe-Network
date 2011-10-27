@@ -1,3 +1,4 @@
+
 testing
 <?php
 	$file = fopen("hi.txt", "r");
